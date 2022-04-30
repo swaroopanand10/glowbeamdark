@@ -28,20 +28,23 @@ highlight Error guifg=#FF6B6B guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Exception guifg=#FF6B6B guibg=NONE guisp=NONE gui=italic blend=NONE
 highlight FoldColumn guifg=#F8E61B guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Folded guifg=#F8E61B guibg=NONE guisp=NONE gui=NONE blend=NONE
-highlight Function guifg=#52B0EF guibg=NONE guisp=NONE gui=NONE blend=NONE
+" highlight Function guifg=#52B0EF guibg=NONE guisp=NONE gui=NONE blend=NONE
+highlight Function guifg=#f44747 guibg=NONE guisp=NONE gui=italic blend=NONE
 highlight GitGutterAdd guifg=#97BE64 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight GitGutterChange guifg=#ECBE79 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight GitGutterChangeDelete guifg=#DA8549 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight GitGutterDelete guifg=#FF6B6B guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Hint guifg=#AAA2E2 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Ignore guifg=#E6E6E6 guibg=NONE guisp=NONE gui=NONE blend=NONE
-highlight Include guifg=#FF6B6B guibg=NONE guisp=NONE gui=italic blend=NONE
+" highlight Include guifg=#FF6B6B guibg=NONE guisp=NONE gui=italic blend=NONE
+highlight Include guifg=#FF3F4F guibg=NONE guisp=NONE gui=Bold ctermfg=1 ctermbg=NONE cterm=NONE
 highlight IncSearch guifg=NONE guibg=#3B3702 guisp=#ECBE79 gui=underline blend=NONE
 highlight IndentGuidesEven guifg=NONE guibg=#21252B guisp=NONE gui=NONE blend=NONE
 highlight IndentGuidesOdd guifg=NONE guibg=#1B1E23 guisp=NONE gui=NONE blend=NONE
 highlight Info guifg=#52B0EF guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Italic guifg=NONE guibg=NONE guisp=NONE gui=italic blend=NONE
-highlight Keyword guifg=#C678DD guibg=NONE guisp=NONE gui=italic blend=NONE
+" highlight Keyword guifg=#C678DD guibg=NONE guisp=NONE gui=italic blend=NONE
+highlight Keyword guifg=#BF40BF guibg=NONE guisp=NONE gui=italic blend=NONE
 highlight LineNr guifg=#3F444A guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight LspDiagnosticsUnderlineError guifg=NONE guibg=NONE guisp=#FF6B6B gui=underline blend=NONE
 highlight LspDiagnosticsUnderlineHint guifg=NONE guibg=NONE guisp=#AAA2E2 gui=underline blend=NONE
@@ -65,7 +68,8 @@ highlight NonText guifg=#72787E guibg=NONE guisp=NONE gui=NONE blend=NONE
 "highlight Normal guifg=#BAC1CE guibg=#141414 guisp=NONE gui=NONE blend=NONE
 " highlight Normal guifg=#BAC1CE guibg=#000000 guisp=NONE gui=NONE blend=NONE
 highlight Normal guifg=#52b0ef guibg=#000000 guisp=NONE gui=NONE blend=NONE
-highlight Number guifg=#DA8549 guibg=NONE guisp=NONE gui=NONE blend=NONE
+" highlight Number guifg=#DA8549 guibg=NONE guisp=NONE gui=NONE blend=NONE
+highlight Number guifg=#C678DD guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight NvimTreeFolderIcon guifg=#72787E guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight NvimTreeGitDirty guifg=#52B0EF guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight NvimTreeGitMerge guifg=#C678DD guibg=NONE guisp=NONE gui=NONE blend=NONE
@@ -98,7 +102,10 @@ highlight Statement guifg=#52B0EF guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight StatusLine guifg=#B0B0B0 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight StatusLineNC guifg=#72787E guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight StorageClass guifg=#52B0EF guibg=NONE guisp=NONE gui=NONE blend=NONE
-highlight String guifg=#97BE64 guibg=NONE guisp=NONE gui=NONE blend=NONE
+" highlight String guifg=#97BE64 guibg=NONE guisp=NONE gui=NONE blend=NONE
+highlight String guifg=#0FFF50 guibg=NONE guisp=NONE gui=NONE blend=NONE
+" highlight String guifg=#81f900 guibg=NONE guisp=NONE gui=NONE blend=NONE
+" highlight String guifg=#aaff00 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Structure guifg=#52B0EF guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Success guifg=#97BE64 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight TabLine guifg=#9DA1A4 guibg=#23272F guisp=NONE gui=NONE blend=NONE
@@ -114,9 +121,11 @@ highlight TelescopeSelectionCaret guifg=#C678DD guibg=#252A31 guisp=NONE gui=NON
 highlight Title guifg=#ECBE79 guibg=NONE guisp=NONE gui=bold blend=NONE
 highlight Todo guifg=#ECBE79 guibg=NONE guisp=NONE gui=underline blend=NONE
 highlight TSParameter guifg=#4CB5BD guibg=NONE guisp=NONE gui=italic blend=NONE
-highlight TSTag guifg=#FF6B6B guibg=NONE guisp=NONE gui=NONE blend=NONE
+" highlight TSTag guifg=#FF6B6B guibg=NONE guisp=NONE gui=NONE blend=NONE
+highlight TSTag guifg=#4ec9b0 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight TSURI guifg=NONE guibg=NONE guisp=#52B0EF gui=underlineitalic blend=NONE
-highlight Type guifg=#ECBE79 guibg=NONE guisp=NONE gui=NONE blend=NONE
+" highlight Type guifg=#ECBE79 guibg=NONE guisp=NONE gui=NONE blend=NONE
+highlight Type guifg=#DA8549 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Typedef guifg=#ECBE79 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Underlined guifg=NONE guibg=NONE guisp=NONE gui=underline blend=NONE
 highlight VertSplit guifg=#3F444A guibg=NONE guisp=NONE gui=NONE blend=NONE
@@ -125,9 +134,10 @@ highlight VisualNOS guifg=#FF6B6B guibg=#252A31 guisp=NONE gui=NONE blend=NONE
 highlight Warning guifg=#DA8549 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Whitespace guifg=#23272F guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight	NvimTreeFolderIcon guifg=#52B0EF guibg=NONE guisp=NONE gui=bold blend=NONE 
+highlight Delimiter guifg=#FF3F4F guibg=NONE guisp=NONE gui=NONE ctermfg=1 ctermbg=NONE cterm=NONE
 highlight! link CursorColumn CursorLine
 " highlight! link CursorLine Visual
-highlight! link Delimiter Normal
+" highlight! link Delimiter Normal
 highlight! link ErrorMsg Error
 highlight! link Float Number
 highlight! link HintMsg Hint
