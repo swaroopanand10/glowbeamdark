@@ -109,8 +109,10 @@ highlight String guifg=#0FFF50 guibg=NONE guisp=NONE gui=NONE blend=NONE
 " highlight String guifg=#aaff00 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Structure guifg=#52B0EF guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Success guifg=#97BE64 guibg=NONE guisp=NONE gui=NONE blend=NONE
-highlight TabLine guifg=#9DA1A4 guibg=#23272F guisp=NONE gui=NONE blend=NONE
-highlight TabLineFill guifg=NONE guibg=#1D2025 guisp=NONE gui=NONE blend=NONE
+" highlight TabLine guifg=#9DA1A4 guibg=#23272F guisp=NONE gui=NONE blend=NONE
+" highlight TabLineFill guifg=NONE guibg=#1D2025 guisp=NONE gui=NONE blend=NONE
+highlight TabLine guifg=#9DA1A4 guibg=#141619 guisp=NONE gui=NONE blend=NONE
+highlight TabLineFill guifg=NONE guibg=#141619 guisp=NONE gui=NONE blend=NONE
 highlight TabLineSel guifg=#52B0EF guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight TabLineSeparator guifg=#141414 guibg=#1D2025 guisp=NONE gui=NONE blend=NONE
 highlight Tag guifg=#FDB4DB guibg=NONE guisp=NONE gui=underline blend=NONE
