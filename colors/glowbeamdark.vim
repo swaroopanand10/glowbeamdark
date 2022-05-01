@@ -2,6 +2,7 @@ hi clear
 syntax reset
 set t_Co=256
 set background=dark
+hi NonText guifg=bg
 highlight Bold guifg=NONE guibg=NONE guisp=NONE gui=bold blend=NONE
 highlight Boolean guifg=#FDB4DB guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Character guifg=#FDB4DB guibg=NONE guisp=NONE gui=NONE blend=NONE
