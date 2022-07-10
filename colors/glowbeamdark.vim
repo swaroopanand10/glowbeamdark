@@ -175,5 +175,6 @@ highlight! link TabLineWarning Warning
 highlight! link TelescopeMatching IncSearch
 highlight! link TelescopePreviewLine Search
 highlight! link WarningMsg Warning
-highlight Normal ctermbg=Black
-highlight NonText ctermbg=Black
+" highlight Normal ctermbg=Black
+" highlight NonText ctermbg=Black
+hi Normal guibg=NONE ctermbg=NONE
