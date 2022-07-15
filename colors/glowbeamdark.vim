@@ -39,8 +39,8 @@ highlight Hint guifg=#AAA2E2 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Ignore guifg=#E6E6E6 guibg=NONE guisp=NONE gui=NONE blend=NONE
 " highlight Include guifg=#FF6B6B guibg=NONE guisp=NONE gui=italic blend=NONE
 highlight Include guifg=#FF3F4F guibg=NONE guisp=NONE gui=Bold ctermfg=1 ctermbg=NONE cterm=NONE
-highlight IncSearch guifg=NONE guibg=#3B3702 guisp=#ECBE79 gui=underline blend=NONE
-" highlight IncSearch guifg=NONE guibg=#625e34 guisp=#ECBE79 gui=underline blend=NONE
+" highlight IncSearch guifg=NONE guibg=#3B3702 guisp=#ECBE79 gui=underline blend=NONE
+highlight IncSearch guifg=NONE guibg=#625e34 gui=underline blend=NONE
 highlight IndentGuidesEven guifg=NONE guibg=#21252B guisp=NONE gui=NONE blend=NONE
 highlight IndentGuidesOdd guifg=NONE guibg=#1B1E23 guisp=NONE gui=NONE blend=NONE
 highlight Info guifg=#52B0EF guibg=NONE guisp=NONE gui=NONE blend=NONE
