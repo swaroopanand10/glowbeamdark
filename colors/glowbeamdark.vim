@@ -39,8 +39,8 @@ highlight Hint guifg=#AAA2E2 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Ignore guifg=#E6E6E6 guibg=NONE guisp=NONE gui=NONE blend=NONE
 " highlight Include guifg=#FF6B6B guibg=NONE guisp=NONE gui=italic blend=NONE
 highlight Include guifg=#FF3F4F guibg=NONE guisp=NONE gui=Bold ctermfg=1 ctermbg=NONE cterm=NONE
-" highlight IncSearch guifg=NONE guibg=#3B3702 guisp=#ECBE79 gui=underline blend=NONE
-highlight IncSearch guifg=NONE guibg=#625e34 guisp=#ECBE79 gui=underline blend=NONE
+highlight IncSearch guifg=NONE guibg=#3B3702 guisp=#ECBE79 gui=underline blend=NONE
+" highlight IncSearch guifg=NONE guibg=#625e34 guisp=#ECBE79 gui=underline blend=NONE
 highlight IndentGuidesEven guifg=NONE guibg=#21252B guisp=NONE gui=NONE blend=NONE
 highlight IndentGuidesOdd guifg=NONE guibg=#1B1E23 guisp=NONE gui=NONE blend=NONE
 highlight Info guifg=#52B0EF guibg=NONE guisp=NONE gui=NONE blend=NONE
@@ -133,7 +133,8 @@ highlight Type guifg=#DA8549 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Typedef guifg=#ECBE79 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Underlined guifg=NONE guibg=NONE guisp=NONE gui=underline blend=NONE
 highlight VertSplit guifg=#3F444A guibg=NONE guisp=NONE gui=NONE blend=NONE
-highlight Visual guifg=NONE guibg=#252A31 guisp=NONE gui=NONE blend=NONE
+" highlight Visual guifg=NONE guibg=#252A31 guisp=NONE gui=NONE blend=NONE
+highlight Visual guifg=NONE guibg=#3a3f45 guisp=NONE gui=NONE blend=NONE
 highlight VisualNOS guifg=#FF6B6B guibg=#252A31 guisp=NONE gui=NONE blend=NONE
 highlight Warning guifg=#DA8549 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Whitespace guifg=#23272F guibg=NONE guisp=NONE gui=NONE blend=NONE
