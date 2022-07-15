@@ -91,7 +91,8 @@ highlight Question guifg=#97BE64 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight QuickScopeCursor guifg=NONE guibg=NONE guisp=#94E453 gui=underlinebold blend=NONE
 highlight QuickScopePrimary guifg=NONE guibg=NONE guisp=#F2C88C gui=underlinebold blend=NONE
 highlight QuickScopeSecondary guifg=NONE guibg=NONE guisp=#FF6B6B gui=underlinebold blend=NONE
-highlight Search guifg=NONE guibg=#3B3702 guisp=NONE gui=NONE blend=NONE
+" highlight Search guifg=NONE guibg=#3B3702 guisp=NONE gui=NONE blend=NONE
+highlight Search guifg=NONE guibg=#613214 guisp=NONE gui=NONE blend=NONE
 highlight SignColumn guifg=NONE guibg=#141414 guisp=NONE gui=NONE blend=NONE
 highlight Special guifg=#DA8549 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight SpecialChar guifg=#ECBE79 guibg=NONE guisp=NONE gui=bold blend=NONE
@@ -135,6 +136,7 @@ highlight Underlined guifg=NONE guibg=NONE guisp=NONE gui=underline blend=NONE
 highlight VertSplit guifg=#3F444A guibg=NONE guisp=NONE gui=NONE blend=NONE
 " highlight Visual guifg=NONE guibg=#252A31 guisp=NONE gui=NONE blend=NONE
 highlight Visual guifg=NONE guibg=#3a3f45 guisp=NONE gui=NONE blend=NONE
+" highlight Visual guifg=NONE guibg=#50545a guisp=NONE gui=NONE blend=NONE
 highlight VisualNOS guifg=#FF6B6B guibg=#252A31 guisp=NONE gui=NONE blend=NONE
 highlight Warning guifg=#DA8549 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Whitespace guifg=#23272F guibg=NONE guisp=NONE gui=NONE blend=NONE
