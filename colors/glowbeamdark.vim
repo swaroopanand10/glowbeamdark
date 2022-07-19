@@ -12,7 +12,8 @@ highlight Conceal guifg=NONE guibg=#3F444A guisp=NONE gui=NONE blend=NONE
 highlight Conditional guifg=#52B0EF guibg=NONE guisp=NONE gui=italic blend=NONE
 highlight Constant guifg=#97BE64 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Cursor guifg=NONE guibg=#94E453 guisp=NONE gui=NONE blend=NONE
-highlight CursorLine guifg=NONE guibg=#1a1c21
+" highlight CursorLine guifg=NONE guibg=#1a1c21
+highlight CursorLine guifg=NONE guibg=#47494D
 highlight CursorIM guifg=NONE guibg=#85ADFF guisp=NONE gui=NONE blend=NONE
 highlight CursorLineNr guifg=#52B0EF guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight CursorRM guifg=NONE guibg=#FF6B6B guisp=NONE gui=NONE blend=NONE
