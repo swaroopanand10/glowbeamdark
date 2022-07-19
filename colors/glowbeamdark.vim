@@ -70,7 +70,8 @@ highlight Muted guifg=#9DA1A4 guibg=NONE guisp=NONE gui=italic blend=NONE
 highlight NonText guifg=#72787E guibg=NONE guisp=NONE gui=NONE blend=NONE
 "highlight Normal guifg=#BAC1CE guibg=#141414 guisp=NONE gui=NONE blend=NONE
 " highlight Normal guifg=#BAC1CE guibg=#000000 guisp=NONE gui=NONE blend=NONE
-highlight Normal guifg=#52b0ef guibg=#000000 guisp=NONE gui=NONE blend=NONE
+" highlight Normal guifg=#52b0ef guibg=#000000 guisp=NONE gui=NONE blend=NONE
+highlight Normal guifg=#ffffff guibg=#141414 guisp=NONE gui=NONE blend=NONE
 " highlight Number guifg=#DA8549 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Number guifg=#C678DD guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight NvimTreeFolderIcon guifg=#72787E guibg=NONE guisp=NONE gui=NONE blend=NONE
