@@ -150,7 +150,7 @@ highlight Typedef guifg=#ECBE79 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Underlined guifg=NONE guibg=NONE guisp=NONE gui=underline blend=NONE
 highlight VertSplit guifg=#3F444A guibg=NONE guisp=NONE gui=NONE blend=NONE
 " highlight Visual guifg=NONE guibg=#252A31 guisp=NONE gui=NONE blend=NONE
-highlight Visual guifg=NONE guibg=#75787c guisp=NONE gui=NONE blend=NONE
+highlight Visual guifg=NONE guibg=#4d5257 guisp=NONE gui=NONE blend=NONE
 " highlight Visual guifg=NONE guibg=#264F78 guisp=NONE gui=NONE blend=NONE
 " highlight Visual guifg=NONE guibg=#50545a guisp=NONE gui=NONE blend=NONE
 highlight VisualNOS guifg=#FF6B6B guibg=#252A31 guisp=NONE gui=NONE blend=NONE
