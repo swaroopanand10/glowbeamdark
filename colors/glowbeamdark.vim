@@ -62,9 +62,9 @@ highlight LspDiagnosticsUnderlineWarning guifg=NONE guibg=NONE guisp=#DA8549 gui
 " highlight LspReferenceText guifg=NONE guibg=#404244 guisp=NONE gui=NONE blend=NONE
 " highlight LspReferenceWrite guifg=NONE guibg=#404244 guisp=NONE gui=NONE blend=NONE
 
-highlight LspReferenceRead guifg=#141414 guibg=#FF6B6B guisp=NONE gui=NONE blend=NONE
-highlight LspReferenceText guifg=#141414 guibg=#FF6B6B guisp=NONE gui=NONE blend=NONE
-highlight LspReferenceWrite guifg=#141414 guibg=#FF6B6B guisp=NONE gui=NONE blend=NONE
+highlight LspReferenceRead cursorLine
+highlight LspReferenceText cursorLine
+highlight LspReferenceWrite cursorLine
 
 
 highlight Macro guifg=#4CB5BD guibg=NONE guisp=NONE gui=italic blend=NONE
