@@ -56,19 +56,17 @@ highlight LspDiagnosticsUnderlineHint guifg=NONE guibg=NONE guisp=#AAA2E2 gui=un
 highlight LspDiagnosticsUnderlineInfo guifg=NONE guibg=NONE guisp=#52B0EF gui=underline blend=NONE
 highlight LspDiagnosticsUnderlineWarning guifg=NONE guibg=NONE guisp=#DA8549 gui=underline blend=NONE
 " highlight LspReferenceText guifg=#141414 guibg=#FF6B6B guisp=NONE gui=NONE blend=NONE
-
-
 " highlight LspReferenceRead guifg=NONE guibg=#404244 guisp=NONE gui=NONE blend=NONE
 " highlight LspReferenceText guifg=NONE guibg=#404244 guisp=NONE gui=NONE blend=NONE
 " highlight LspReferenceWrite guifg=NONE guibg=#404244 guisp=NONE gui=NONE blend=NONE
 
-" highlight LspReferenceRead guifg=NONE guibg=#36383F guisp=NONE gui=NONE blend=NONE
-" highlight LspReferenceText guifg=NONE guibg=#36383F guisp=NONE gui=NONE blend=NONE
-" highlight LspReferenceWrite guifg=NONE guibg=#36383F guisp=NONE gui=NONE blend=NONE
-
 highlight LspReferenceRead guifg=NONE guibg=#2b2c32 guisp=NONE gui=NONE blend=NONE
 highlight LspReferenceText guifg=NONE guibg=#2b2c32 guisp=NONE gui=NONE blend=NONE
 highlight LspReferenceWrite guifg=NONE guibg=#2b2c32 guisp=NONE gui=NONE blend=NONE
+
+highlight LspReferenceRead guifg=NONE guibg=#25272c guisp=NONE gui=NONE blend=NONE
+highlight LspReferenceText guifg=NONE guibg=#25272c guisp=NONE gui=NONE blend=NONE
+highlight LspReferenceWrite guifg=NONE guibg=#25272c guisp=NONE gui=NONE blend=NONE
 
 highlight Macro guifg=#4CB5BD guibg=NONE guisp=NONE gui=italic blend=NONE
 highlight markdownH1 guifg=#FF6B6B guibg=NONE guisp=NONE gui=bold blend=NONE
