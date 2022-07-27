@@ -62,10 +62,13 @@ highlight LspDiagnosticsUnderlineWarning guifg=NONE guibg=NONE guisp=#DA8549 gui
 " highlight LspReferenceText guifg=NONE guibg=#404244 guisp=NONE gui=NONE blend=NONE
 " highlight LspReferenceWrite guifg=NONE guibg=#404244 guisp=NONE gui=NONE blend=NONE
 
-highlight LspReferenceRead guifg=NONE guibg=#36383F guisp=NONE gui=NONE blend=NONE
-highlight LspReferenceText guifg=NONE guibg=#36383F guisp=NONE gui=NONE blend=NONE
-highlight LspReferenceWrite guifg=NONE guibg=#36383F guisp=NONE gui=NONE blend=NONE
+" highlight LspReferenceRead guifg=NONE guibg=#36383F guisp=NONE gui=NONE blend=NONE
+" highlight LspReferenceText guifg=NONE guibg=#36383F guisp=NONE gui=NONE blend=NONE
+" highlight LspReferenceWrite guifg=NONE guibg=#36383F guisp=NONE gui=NONE blend=NONE
 
+highlight LspReferenceRead guifg=NONE guibg=#2b2c32 guisp=NONE gui=NONE blend=NONE
+highlight LspReferenceText guifg=NONE guibg=#2b2c32 guisp=NONE gui=NONE blend=NONE
+highlight LspReferenceWrite guifg=NONE guibg=#2b2c32 guisp=NONE gui=NONE blend=NONE
 
 highlight Macro guifg=#4CB5BD guibg=NONE guisp=NONE gui=italic blend=NONE
 highlight markdownH1 guifg=#FF6B6B guibg=NONE guisp=NONE gui=bold blend=NONE
@@ -147,8 +150,8 @@ highlight Typedef guifg=#ECBE79 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Underlined guifg=NONE guibg=NONE guisp=NONE gui=underline blend=NONE
 highlight VertSplit guifg=#3F444A guibg=NONE guisp=NONE gui=NONE blend=NONE
 " highlight Visual guifg=NONE guibg=#252A31 guisp=NONE gui=NONE blend=NONE
-" highlight Visual guifg=NONE guibg=#3a3f45 guisp=NONE gui=NONE blend=NONE
-highlight Visual guifg=NONE guibg=#264F78 guisp=NONE gui=NONE blend=NONE
+highlight Visual guifg=NONE guibg=#75787c guisp=NONE gui=NONE blend=NONE
+" highlight Visual guifg=NONE guibg=#264F78 guisp=NONE gui=NONE blend=NONE
 " highlight Visual guifg=NONE guibg=#50545a guisp=NONE gui=NONE blend=NONE
 highlight VisualNOS guifg=#FF6B6B guibg=#252A31 guisp=NONE gui=NONE blend=NONE
 highlight Warning guifg=#DA8549 guibg=NONE guisp=NONE gui=NONE blend=NONE
