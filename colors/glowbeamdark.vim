@@ -196,4 +196,4 @@ highlight! link TelescopePreviewLine Search
 highlight! link WarningMsg Warning
 " highlight Normal ctermbg=Black
 " highlight NonText ctermbg=Black
-" hi Normal guibg=NONE ctermbg=NONE
+hi Normal guibg=NONE ctermbg=NONE
