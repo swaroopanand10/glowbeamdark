@@ -78,7 +78,8 @@ highlight markdownH6 guifg=#C678DD guibg=NONE guisp=NONE gui=bold blend=NONE
 highlight MatchParen guifg=#52B0EF guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight MoreMsg guifg=#97BE64 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Muted guifg=#9DA1A4 guibg=NONE guisp=NONE gui=italic blend=NONE
-highlight NonText guifg=#72787E guibg=NONE guisp=NONE gui=NONE blend=NONE
+" highlight NonText guifg=#72787E guibg=NONE guisp=NONE gui=NONE blend=NONE
+highlight NonText guifg=NONE guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Normal guifg=#BAC1CE guibg=#141414 guisp=NONE gui=NONE blend=NONE
 " highlight Normal guifg=#BAC1CE guibg=#000000 guisp=NONE gui=NONE blend=NONE
 highlight Normal guifg=#52b0ef guibg=#000000 guisp=NONE gui=NONE blend=NONE
