@@ -25,7 +25,8 @@ highlight DiffChange guifg=NONE guibg=#36453A guisp=NONE gui=NONE blend=NONE
 highlight DiffDelete guifg=NONE guibg=#494142 guisp=NONE gui=NONE blend=NONE
 highlight DiffText guifg=NONE guibg=#35453B guisp=NONE gui=underline blend=NONE
 highlight Directory guifg=#52B0EF guibg=NONE guisp=NONE gui=bold blend=NONE
-highlight EndOfBuffer guifg=#00000000 guibg=NONE guisp=NONE gui=NONE blend=NONE
+" highlight EndOfBuffer guifg=#3F444A guibg=NONE guisp=NONE gui=NONE blend=NONE
+highlight EndOfBuffer guifg=bg guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Error guifg=#FF6B6B guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Exception guifg=#FF6B6B guibg=NONE guisp=NONE gui=italic blend=NONE
 highlight FoldColumn guifg=#F8E61B guibg=NONE guisp=NONE gui=NONE blend=NONE
@@ -197,4 +198,4 @@ highlight! link TelescopePreviewLine Search
 highlight! link WarningMsg Warning
 " highlight Normal ctermbg=Black
 " highlight NonText ctermbg=Black
-" hi Normal guibg=NONE ctermbg=NONE
+hi Normal guibg=NONE ctermbg=NONE
