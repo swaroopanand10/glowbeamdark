@@ -25,7 +25,7 @@ highlight DiffChange guifg=NONE guibg=#36453A guisp=NONE gui=NONE blend=NONE
 highlight DiffDelete guifg=NONE guibg=#494142 guisp=NONE gui=NONE blend=NONE
 highlight DiffText guifg=NONE guibg=#35453B guisp=NONE gui=underline blend=NONE
 highlight Directory guifg=#52B0EF guibg=NONE guisp=NONE gui=bold blend=NONE
-highlight EndOfBuffer guifg=#3F444A guibg=NONE guisp=NONE gui=NONE blend=NONE
+highlight EndOfBuffer guifg=NONE guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Error guifg=#FF6B6B guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Exception guifg=#FF6B6B guibg=NONE guisp=NONE gui=italic blend=NONE
 highlight FoldColumn guifg=#F8E61B guibg=NONE guisp=NONE gui=NONE blend=NONE
@@ -80,9 +80,9 @@ highlight MoreMsg guifg=#97BE64 guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight Muted guifg=#9DA1A4 guibg=NONE guisp=NONE gui=italic blend=NONE
 " highlight NonText guifg=#72787E guibg=NONE guisp=NONE gui=NONE blend=NONE
 highlight NonText guifg=NONE guibg=NONE guisp=NONE gui=NONE blend=NONE
-highlight Normal guifg=#BAC1CE guibg=#141414 guisp=NONE gui=NONE blend=NONE
+" highlight Normal guifg=#BAC1CE guibg=#141414 guisp=NONE gui=NONE blend=NONE
 " highlight Normal guifg=#BAC1CE guibg=#000000 guisp=NONE gui=NONE blend=NONE
-highlight Normal guifg=#52b0ef guibg=#000000 guisp=NONE gui=NONE blend=NONE
+highlight Normal guifg=#52b0ef guibg=NONE guisp=NONE gui=NONE blend=NONE
 " highlight Normal guifg=#52b0ef guibg=#1a1b26 guisp=NONE gui=NONE blend=NONE
 " highlight Normal guifg=#ffffff guibg=#141414 guisp=NONE gui=NONE blend=NONE
 " highlight Number guifg=#DA8549 guibg=NONE guisp=NONE gui=NONE blend=NONE
